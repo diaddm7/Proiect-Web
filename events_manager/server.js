@@ -93,3 +93,5 @@ app.delete('/categorii/:id',function(request,response){
         }
     })
 })
+
+app.listen(8080)
